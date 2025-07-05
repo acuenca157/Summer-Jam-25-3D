@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{114b3c9b-e441-4ac2-95de-d9e026660b45}">
+		<property name="assetPath">
+			<value>Party Animals - Have You Ever Been Mellow (Official Music Video) - Full HD [SXGLhpIyL3Q].mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>187.29795918367347</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{54cde3bc-e5fc-422b-bef4-ad63b6a1b710}</destination>
+		</relationship>
+	</object>
+</objects>
